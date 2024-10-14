@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="EmacsTheme (11)" GUID="{c580686f-fc06-4d03-be4a-6d4e44c926ff}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="EmacsTheme (12)" GUID="{c2eaf6e8-0643-41ba-b106-ed487ebd00ef}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
       <Color Name="AccentFillDefault">
         <Background Type="CT_RAW" Source="FFA79CF1" />
@@ -749,7 +749,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Indicator Margin">
-        <Background Type="CT_RAW" Source="FF395F61" />
+        <Background Type="CT_RAW" Source="FF042024" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Visible Whitespace">
