@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="EmacsTheme (12)" GUID="{c2eaf6e8-0643-41ba-b106-ed487ebd00ef}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="EmacsTheme (13)" GUID="{ccd7920b-6fed-4ae7-b014-97dd3982510d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
       <Color Name="AccentFillDefault">
         <Background Type="CT_RAW" Source="FFA79CF1" />
@@ -1251,7 +1251,7 @@
         <Foreground Type="CT_RAW" Source="FFDC626D" />
       </Color>
       <Color Name="Block Structure Adornments">
-        <Background Type="CT_RAW" Source="FF688B8C" />
+        <Background Type="CT_RAW" Source="FF042024" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScroll Background">
@@ -1336,7 +1336,7 @@
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8D7141" />
+        <Foreground Type="CT_RAW" Source="FF042024" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_RAW" Source="FF042024" />
